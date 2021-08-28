@@ -1,0 +1,21 @@
+.image{
+    margin-left: 45%;
+    padding: 20px;
+}
+#photo{
+    /* margin-left: 45%; */
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    size: 20px;
+}
+body{
+    height: 200vh;
+    width: 100%;
+    background-image:url(../images/xps-YNliXm_hMn8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#name{
+    text-align: center;
+}
